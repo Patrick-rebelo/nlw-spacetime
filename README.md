@@ -1,5 +1,5 @@
 <p align="center">
-<img src=".github/rocketseat-logo.png" alt= "imagem-preview"
+<img src=".github/img-15.webp" alt= "imagem-preview"
 width= "100%" />
 </p>
 
